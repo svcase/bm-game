@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bm-game/static/css/main.b91172fd.chunk.css",
+    "main.css": "/bm-game/static/css/main.779281eb.chunk.css",
     "main.js": "/bm-game/static/js/main.f36bec60.chunk.js",
     "main.js.map": "/bm-game/static/js/main.f36bec60.chunk.js.map",
     "runtime-main.js": "/bm-game/static/js/runtime-main.f5dd30e7.js",
@@ -8,16 +8,16 @@
     "static/js/2.a1741d5b.chunk.js": "/bm-game/static/js/2.a1741d5b.chunk.js",
     "static/js/2.a1741d5b.chunk.js.map": "/bm-game/static/js/2.a1741d5b.chunk.js.map",
     "index.html": "/bm-game/index.html",
-    "precache-manifest.20ab39827fcc9c049f1156b8482dc019.js": "/bm-game/precache-manifest.20ab39827fcc9c049f1156b8482dc019.js",
+    "precache-manifest.6e6cf6743b477230e6f764e1e2b376ff.js": "/bm-game/precache-manifest.6e6cf6743b477230e6f764e1e2b376ff.js",
     "service-worker.js": "/bm-game/service-worker.js",
-    "static/css/main.b91172fd.chunk.css.map": "/bm-game/static/css/main.b91172fd.chunk.css.map",
+    "static/css/main.779281eb.chunk.css.map": "/bm-game/static/css/main.779281eb.chunk.css.map",
     "static/js/2.a1741d5b.chunk.js.LICENSE.txt": "/bm-game/static/js/2.a1741d5b.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/bm-game/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f5dd30e7.js",
     "static/js/2.a1741d5b.chunk.js",
-    "static/css/main.b91172fd.chunk.css",
+    "static/css/main.779281eb.chunk.css",
     "static/js/main.f36bec60.chunk.js"
   ]
 }
